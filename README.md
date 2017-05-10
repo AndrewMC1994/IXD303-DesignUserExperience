@@ -9,10 +9,3 @@ Weather App Icons: https://www.dropbox.com/s/c6y5eyem5heyi2x/Planet%20Icons.ai?d
 Invision: https://projects.invisionapp.com/share/GFARC7WMB#/screens
 
 After Effects - MockUp: https://vimeo.com/216866851
-
-Research: All of my research for this module is on Tumblr under the tag IXD303, this includes:
-
-Inspiration
-Mockups
-Design Process
-Moodboards
